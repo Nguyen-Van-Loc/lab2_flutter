@@ -3,17 +3,13 @@
 ## Ứng dụng quản lý hình ảnh đơn giản 
 
 Màn hình chính
-![](<img src="[https://...](https://i.imgur.com/RFGeHJm.jpg)" alt="..." width="250" />)
 
+<img src="https://i.imgur.com/RFGeHJm.jpg" width="300"  /> <img src="https://i.imgur.com/Bf6fxHf.jpg" width="300"  />
 
+Thêm hình ảnh
 
-![Màn hình chính dark](https://i.imgur.com/Bf6fxHf.jpg)
+ <img src="https://i.imgur.com/P5jsWpu.jpg" width="300"  />
 
+Danh sách hình ảnh 
 
-![Thêm ảnh](https://i.imgur.com/P5jsWpu.jpg)
-
-
-![Danh sách ảnh](https://i.imgur.com/SyOMfY6.jpg)
-
-
-![Danh sách ảnh dark ](https://i.imgur.com/zy2d6FQ.jpg)
+<img src="https://i.imgur.com/SyOMfY6.jpg" width="300"  /> <img src="https://i.imgur.com/zy2d6FQ.jpg" width="300"  />
