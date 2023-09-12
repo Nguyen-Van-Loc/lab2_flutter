@@ -2,7 +2,9 @@
 
 ## Ứng dụng quản lý hình ảnh đơn giản 
 
-![Màn hình chính](https://i.imgur.com/RFGeHJm.jpg)
+Màn hình chính
+![](<img src="[https://...](https://i.imgur.com/RFGeHJm.jpg)" alt="..." width="250" />)
+
 
 
 ![Màn hình chính dark](https://i.imgur.com/Bf6fxHf.jpg)
