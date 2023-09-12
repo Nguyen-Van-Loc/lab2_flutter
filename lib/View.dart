@@ -23,6 +23,7 @@ class MyView extends State<MyApp> {
       imageFile = File(status.path);
     });
     Navigator.of(context).pop();
+    ShowDialog(context);
   }
   void addImage(ImageView imageView) {
     setState(() {
@@ -172,8 +173,7 @@ class MyView extends State<MyApp> {
                                     ),
                                   );
                                 }else{
-                                  ImageView ima =
-                                  ImageView(columId, imageFile!, title, describe);
+                                  ImageView ima = ImageView(columId, imageFile!, title, describe);
                                   addImage(ima);
                                   reset();
                                   Navigator.of(context).pop();
