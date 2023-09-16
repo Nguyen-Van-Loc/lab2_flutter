@@ -1,34 +1,11 @@
 import 'dart:io';
 
 class ImageView{
-  int _id;
-  File _image;
-  String _title;
-  String _text;
+  final int id;
+  final File image;
+  final String title;
+  final String text;
 
-  ImageView(this._id, this._image, this._title, this._text);
+  ImageView(this.id, this.image, this.title, this.text);
 
-  String get text => _text;
-
-  set text(String value) {
-    _text = value;
-  }
-
-  String get title => _title;
-
-  set title(String value) {
-    _title = value;
-  }
-
-  File get image => _image;
-
-  set image(File value) {
-    _image = value;
-  }
-
-  int get id => _id;
-
-  set id(int value) {
-    _id = value;
-  }
 }
